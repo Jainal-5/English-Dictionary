@@ -1,8 +1,8 @@
-English Dictionary:
+# English Dictionary:
 
 A simple text-based english dictionary in C++.
 
-Feature:
+## Feature:
 You can search for word and it outputs the result in:
 
     word;pos;
